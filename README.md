@@ -17,4 +17,4 @@ Install talkfilters:
 
 Install go-talkfilters:
 
-    go install github.com/codysoyland/go-talkfilters
+    go get github.com/codysoyland/go-talkfilters
